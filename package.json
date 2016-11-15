@@ -1,25 +1,28 @@
 {
-  "homepage": "https://github.com/Atmosphere/atmosphere-javascript",
-  "keywords": [
-    "atmosphere", "2.0.2"
-  ],
-  "license": "Apache-2.0",
-  "main": "index.js",
-  "maintainers": [
-    {
-      "name": "dokoto",
-      "email": "manuel.alfaro.sierra@gmail.com"
-    }
-  ],
-  "name": "Atmosphere_2_0_2",
-  "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/opv-psa/Atmosphere_2_0_2.git"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "version": "2.0.2"
+    "homepage": "https://github.com/Atmosphere/atmosphere-javascript",
+    "keywords": [
+        "atmosphere", "2.0.2"
+    ],
+    "license": "Apache-2.0",
+    "main": "index.js",
+    "maintainers": [{
+        "name": "dokoto",
+        "email": "manuel.alfaro.sierra@gmail.com"
+    }],
+    "name": "Atmosphere_2_0_2",
+    "optionalDependencies": {},
+    "readme": "ERROR: No README data found!",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/opv-psa/Atmosphere_2_0_2.git"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "ws": "^1.0.1",
+        "eventsource": "^0.1.6",
+        "xmlhttprequest": "^1.8.0"
+    },
+    "version": "2.0.2"
 }
