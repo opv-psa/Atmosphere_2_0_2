@@ -24,5 +24,7 @@
         "eventsource": "^0.1.6",
         "xmlhttprequest": "^1.8.0"
     },
+    "browser": "./lib/browser.js",
+    "devDependencies": {},
     "version": "2.0.2"
 }
