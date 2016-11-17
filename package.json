@@ -1,7 +1,7 @@
 {
     "homepage": "https://github.com/Atmosphere/atmosphere-javascript",
     "keywords": [
-        "atmosphere", "2.0.2"
+        "atmosphere", "2.0.x"
     ],
     "license": "Apache-2.0",
     "main": "index.js",
@@ -9,12 +9,12 @@
         "name": "dokoto",
         "email": "manuel.alfaro.sierra@gmail.com"
     }],
-    "name": "Atmosphere_2_0_2",
+    "name": "Atmosphere_2_0_x",
     "optionalDependencies": {},
     "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/opv-psa/Atmosphere_2_0_2.git"
+        "url": "git+https://github.com/opv-psa/Atmosphere_2_0_x.git"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,5 +26,5 @@
     },
     "browser": "./lib/browser.js",
     "devDependencies": {},
-    "version": "2.0.2"
+    "version": "0.0.5"
 }
